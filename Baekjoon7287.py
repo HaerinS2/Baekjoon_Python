@@ -1,0 +1,1 @@
+print(70,'haerin',sep='\n')
